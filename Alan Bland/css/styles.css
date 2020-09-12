@@ -1,0 +1,47 @@
+
+div{
+  background-color: #e4f9f5;
+}
+body {
+  background-color: Gainsboro;
+  margin-top: 0;
+  
+}
+hr {
+    border-style: none;
+  border-top-style: dotted;
+  border-color: coral;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  font-size: 15px;
+  color: crimson;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 15px;
+  color: darkcyan;
+}
+h3{
+  font-size: 15px;
+  color: crimson;
+}
+p {
+  font-size: 15px;
+  text-indent: 25px;
+  font-family: "times new roman", times, serif;
+}
+table,
+td {border: 0px solid #333
+}
+thead,
+tfoot {background-color: #333;
+  color: #fff
+}
+/******************************Class Selector***********************/
+.circular{
+  border-radius: 100%;
+}
+
+/*
